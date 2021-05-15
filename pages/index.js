@@ -7,7 +7,7 @@ function HomePage(props) {
     <div>
       <Head>
         <title>NextJS Events</title>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="description" content="NextJS Events" />
         <meta name="keywords" content="NextJS, ReactJS, JavaScript" />
         <meta name="author" content="Ronchi Floyd" />
